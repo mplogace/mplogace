@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @mplogace
+- 👀 I’m interested in Electrical Engineering/Python/UX/UI/App Devolopement
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
